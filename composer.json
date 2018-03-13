@@ -1,8 +1,8 @@
 {
-  "name": "aiakane16/phpspec-laravel",
+  "name": "benconstable/phpspec-laravel",
   "description": "Test your Laravel applications with PhpSpec",
   "keywords": ["laravel", "phpspec", "testing", "test"],
-  "homepage": "http://github.com/aiakane16/phpspec-laravel",
+  "homepage": "http://github.com/BenConstable/phpspec-laravel",
   "type": "library",
   "authors": [
     {
